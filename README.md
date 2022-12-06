@@ -7,6 +7,5 @@
 
   - 📗 Mail : <a href ="mailto:unshadow@proton.me">unshadow@proton.me</a>
   - 📘 Root-me : <a href="redirect">https://www.root-me.org/Zeyn-537430?lang=fr</a>
-  # - 📕 TryHackMe : <a href="redirect">https://tryhackme.com/p/Mopeyx</a>
   - 📙 Discord : Zeyn#2291
 -----------------------------
