@@ -5,6 +5,5 @@
 -----------------------------
 <h2>Contact</h2>
 
-  - 📘 Root-me : <a href="redirect">https://www.root-me.org/Zeyn-537430</a>
   - 📙 Discord : Zeyn#2291
 -----------------------------
